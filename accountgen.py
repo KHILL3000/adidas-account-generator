@@ -376,7 +376,7 @@ def accountgenner(x, runs):
                                     #log.write("[" + currenttime5 + "]:" + accountstring + "\n")
                                     log.write(accountstring + "\n")
                                     print("-------------------------------------")
-                                    print("   Task {}: Success, created account: \n   Email: {} \n   Password: {}".format(x,email, threadpass))
+                                    print("   Task {}: Success, created account: \n   Email: {} \n   Password: {}".format(x,email, threadpass)")
                                     print("-------------------------------------")
                                     finalproceed = True
 
